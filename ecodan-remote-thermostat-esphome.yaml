@@ -51,7 +51,7 @@ packages:
             confs/base.yaml,
             #confs/esp32s3.yaml,
             #confs/esp32s3-led.yaml,    # atom s3 status leds
-            #confs/m5stack-nanoc6.yaml,
+            confs/m5stack-nanoc6.yaml,
             ## enable label language file
             confs/ecodan-labels-en.yaml,
             #confs/ecodan-labels-nl.yaml,
